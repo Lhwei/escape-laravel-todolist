@@ -16,3 +16,4 @@ yarn-error.log
 /db
 /logs
 /public
+/.devcontainer
